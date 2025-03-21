@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_teal">#008B8B</color>
+    <color name="medium_teal">#40B2B2</color>
+    <color name="light_teal">#5FD2CD</color>
+    <color name="gold">#FFD700</color>
+    <color name="blue">#3498db</color>
+    <color name="darker_blue">#2980b9</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="light_gray">#F8F9FA</color>
+    <color name="light_gray_border">#DDDDDD</color>
+    <color name="white_transparent">#F2FFFFFF</color>
+    <color name="light_blue_transparent">#E8E8F4F8</color>
+    <color name="black_transparent">#66000000</color>
+</resources>

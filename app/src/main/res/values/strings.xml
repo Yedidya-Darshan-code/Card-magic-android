@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Magicards</string>
+    <string name="title">Card Calculator Magic</string>
+    <string name="select_your_cards">Enter 4 of your cards</string>
+    <string name="card_1">Card 1</string>
+    <string name="card_2">Card 2</string>
+    <string name="card_3">Card 3</string>
+    <string name="card_4">Card 4</string>
+    <string name="select_number">Select Number</string>
+    <string name="select_suit">Select Suit</string>
+    <string name="reveal_magic_card">Find my secret card</string>
+    <string name="the_magic_card_is">Your secret card is</string>
+    <string name="result_card_description">Result Card Image</string>
+    <string name="copyright_notice">© Yedidya Darshan Magic Tricks</string>
+
+    <!-- Card values arrays that match the Java array structure -->
+    <string-array name="card_numbers">
+        <item>Select Number</item>
+        <item>A</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>J</item>
+        <item>Q</item>
+        <item>K</item>
+    </string-array>
+
+    <string-array name="card_suits">
+        <item>Select Suit</item>
+        <item>♥</item>
+        <item>♦</item>
+        <item>♣</item>
+        <item>♠</item>
+    </string-array>
+
+    <!-- This array maps display values to actual suit values -->
+    <string-array name="suit_values">
+        <item></item>
+        <item>hearts</item>
+        <item>diamonds</item>
+        <item>clubs</item>
+        <item>spades</item>
+    </string-array>
+</resources>
