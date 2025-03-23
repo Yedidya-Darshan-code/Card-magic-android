@@ -19,7 +19,7 @@ Select any four playing cards using the provided selectors. After making your se
 - Built with Java for Android
 - Supports Android 5.0 (Lollipop) and higher
 - Implements clean architecture principles with separation of UI and business logic
-- Custom animations and transitions
+- Custom animations and transitions for enhanced user experience
 
 ## 🚀 Setup and Installation
 
